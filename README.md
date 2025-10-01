@@ -126,4 +126,4 @@ Here’s the chart 📊:
 
 
 ## ✅ Summary:
-Rust beats Go both in raw single-thread performance and in multi-thread scalability. For your benchmark, Rust with 20 workers runs about 22% faster overall than Go (1.74B vs 1.42B iterations/sec).
+Rust beats Go both in raw single-thread performance and in multi-thread scalability. For this benchmark, Rust with 20 workers runs about 22% faster overall than Go (1.74B vs 1.42B iterations/sec).
