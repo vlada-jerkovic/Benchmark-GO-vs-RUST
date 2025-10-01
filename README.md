@@ -8,7 +8,7 @@ A simple performance comparison of Go and Rust on a CPU-bound task, measuring ex
   - 20 Logical processors
 - RAM: 32GB
 
-## Requerements
+## Requirements
 ### GOLANG
 [Install GO](https://go.dev/dl/)
 
